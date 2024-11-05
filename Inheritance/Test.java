@@ -69,6 +69,8 @@ public class Test {
         Animal cat = new cat();
         cat.sayHello();
 
-        Dog myDog = (Dog) dog;  // Down Casting
+        Dog myDog = (Dog) dog;// Down Casting
+
+
   }
 }
