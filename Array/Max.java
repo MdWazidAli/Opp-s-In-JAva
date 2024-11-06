@@ -10,7 +10,7 @@ public class Max {
         arr[2] = 32;
         arr[3] = 2;
         arr[4] = -2;
-        arr[5] = 01;
+        arr[5] = 1;
         int res = Integer.MAX_VALUE;
 
         for (int i = 0; i < arr.length; i++) {
